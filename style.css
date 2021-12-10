@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+    background-color: linear-gradient(red,pink,white);
+}
+.profile{
+    width: 175px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
+p{
+    max-width: 450px;
+    margin: 25px auto;
+    font-size: 17px;
+    line-height: 1.3;
+    
+}
+#welcome{
+    background-color: linear-gradient(red,pink,white);
+}
+#section{
+    background-color: linear-gradient(white,pink,red);
+}
+links{
+    float: left;
+    color: white;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+.links:hover{
+    background-color: floralwhite;
+}
+h1{
+    font-family: 'Corinthia', cursive;
+}
